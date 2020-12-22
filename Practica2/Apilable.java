@@ -3,8 +3,8 @@ import java.util.NoSuchElementException;
 /**
  * <p> Interfaz para Pilas. Esta clase contiene las
  * operaciones elementales que debe tener el TAD Pila </p>
- * @author Luis Manuel Martinez Damaso <luismanuel@ciencias.unam.mx>
- * @version 1.0
+ * @author Marco Silva
+ * @version 2.0
  * @param <T>
  */
 public interface Apilable<T>  {
